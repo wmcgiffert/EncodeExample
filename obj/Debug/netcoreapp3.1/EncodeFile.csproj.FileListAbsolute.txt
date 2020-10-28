@@ -1,0 +1,13 @@
+C:\Users\gmac2\source\repos\MIS_321_Repos\EncodeFile\bin\Debug\netcoreapp3.1\EncodeFile.exe
+C:\Users\gmac2\source\repos\MIS_321_Repos\EncodeFile\bin\Debug\netcoreapp3.1\EncodeFile.deps.json
+C:\Users\gmac2\source\repos\MIS_321_Repos\EncodeFile\bin\Debug\netcoreapp3.1\EncodeFile.runtimeconfig.json
+C:\Users\gmac2\source\repos\MIS_321_Repos\EncodeFile\bin\Debug\netcoreapp3.1\EncodeFile.runtimeconfig.dev.json
+C:\Users\gmac2\source\repos\MIS_321_Repos\EncodeFile\bin\Debug\netcoreapp3.1\EncodeFile.dll
+C:\Users\gmac2\source\repos\MIS_321_Repos\EncodeFile\bin\Debug\netcoreapp3.1\EncodeFile.pdb
+C:\Users\gmac2\source\repos\MIS_321_Repos\EncodeFile\obj\Debug\netcoreapp3.1\EncodeFile.csprojAssemblyReference.cache
+C:\Users\gmac2\source\repos\MIS_321_Repos\EncodeFile\obj\Debug\netcoreapp3.1\EncodeFile.AssemblyInfoInputs.cache
+C:\Users\gmac2\source\repos\MIS_321_Repos\EncodeFile\obj\Debug\netcoreapp3.1\EncodeFile.AssemblyInfo.cs
+C:\Users\gmac2\source\repos\MIS_321_Repos\EncodeFile\obj\Debug\netcoreapp3.1\EncodeFile.csproj.CoreCompileInputs.cache
+C:\Users\gmac2\source\repos\MIS_321_Repos\EncodeFile\obj\Debug\netcoreapp3.1\EncodeFile.dll
+C:\Users\gmac2\source\repos\MIS_321_Repos\EncodeFile\obj\Debug\netcoreapp3.1\EncodeFile.pdb
+C:\Users\gmac2\source\repos\MIS_321_Repos\EncodeFile\obj\Debug\netcoreapp3.1\EncodeFile.genruntimeconfig.cache
